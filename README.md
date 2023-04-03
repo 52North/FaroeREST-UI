@@ -4,8 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+## Getting Started 
 
+In the project directory, run the below two commands to get started:
+
+### `npm install` or `npm i`
+
+(In case your installation hangs due to some optional packages, try `npm install --omit=optional`
+    else, investigate the issue with `npm doctor`
+            if the registery is unreachable, try changing the setting the proxy
+            This issue generally occurs if your are using organizational vpn/proxies 
+)
 ### `npm start`
 
 Runs the app in the development mode.\
